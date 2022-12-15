@@ -1,9 +1,6 @@
 # Hi there, I am Freddy
 In God we trust, all others bring data. -- William Edwards Deming
 
-
-
-
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
