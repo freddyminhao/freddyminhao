@@ -22,6 +22,6 @@
 
 
 ## Contact
-+ 📨 Email : freddy_hu@12.com
++ 📨 Email : freddy_hu@126.com
 
 
