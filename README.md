@@ -1,16 +1,13 @@
-# Hi there, I am   💁🏼 💻
-In God we trust, all others bring data. -- William Edwards Deming
+# Hi there, I am Minhao Hu
 
 
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Bin-Cao/count.svg" />
+  <img src="https://profile-counter.glitch.me/freddyminhao/count.svg" />
 </p>
 
-## Skills and expertise
-Machine Learning ; X-ray Diffraction Refinement ; Metal Oxidation
 
 ## Programming languages 
 <br>
@@ -25,6 +22,6 @@ Machine Learning ; X-ray Diffraction Refinement ; Metal Oxidation
 
 
 ## Contact
-+ 📨 Email : bcao@shu.edu.cn
++ 📨 Email : freddy_hu@12.com
 
 
