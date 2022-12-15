@@ -1,7 +1,5 @@
-# Hi there, I am  💁🏼 💻
+# Hi there, I am Freddy
 In God we trust, all others bring data. -- William Edwards Deming
-
-<div align=center><img src="https://user-images.githubusercontent.com/86995074/203887474-255557ed-8d9a-4905-af9f-ab03da6bf0b0.gif"></div>
 
 
 
@@ -10,7 +8,7 @@ In God we trust, all others bring data. -- William Edwards Deming
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Bin-Cao/count.svg" />
+  <img src="https://profile-counter.glitch.me/freddyminhao/count.svg" />
 </p>
 
 ## Skills and expertise
@@ -29,6 +27,6 @@ Machine Learning ; X-ray Diffraction Refinement ; Metal Oxidation
 
 
 ## Contact
-+ 📨 Email : bcao@shu.edu.cn
++ 📨 Email : freddy_hu@126.com
 
 
